@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../../../QA/SQL/ДЗ_мои/D1.sql" dialect="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f4e3c0ee-43d3-43a2-9a12-01e17ff51d35/console.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Downloads/lesson2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Working.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/SQL24/D1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/SQL24/D2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/SQL24/D3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/SQL24/D4.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/SQL24/D5.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/SQL24/WK1.sql" dialect="MySQL" />
+  </component>
+</project>
